@@ -285,7 +285,9 @@ footer {
   padding: 50px 0;
 }
 footer h3 { color: #fff; }
-footer a { color: var(--gold); }
+footer p { color: #f0c94e; }
+footer a { color: #f0c94e; text-decoration: underline; }
+footer a:hover { color: #fff; }
 .footer-row {
   display: flex;
   justify-content: space-between;
